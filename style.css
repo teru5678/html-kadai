@@ -59,7 +59,7 @@ main{
   margin: 15px 0 5px;
 }
 
-  
+
 
 footer{
   height: 50px;
@@ -70,7 +70,6 @@ footer{
   header{
     width: 100%;
   }
-}
 
 main{
   width: 100%;
@@ -86,4 +85,5 @@ main{
 
 .step-box:last-child{
   margin-right: auto;
+}
 }
